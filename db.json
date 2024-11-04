@@ -109,6 +109,17 @@
   "time": "08:00",
   "petsAllowed": true,
   "organizer": "Alex Johnson"
+},
+    {
+  "id": 1008,
+  "category": "health",
+  "title": "lghppp",
+  "description": "Participate in a 5K run to raise funds for cancer research.",
+  "location": "Riverside Park",
+  "date": "Auguest 11, 2001",
+  "time": "08:00",
+  "petsAllowed": true,
+  "organizer": "Alex Johnson"
 }
   ],
 
