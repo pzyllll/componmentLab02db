@@ -65,7 +65,51 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
-    }
+    },
+    {
+  "id": 1004,
+  "category": "environment",
+  "title": "Community Gardening Day",
+  "description": "Join us for a day of planting and maintaining the community garden.",
+  "location": "Central Park",
+  "date": "August 15, 2022",
+  "time": "09:00",
+  "petsAllowed": true,
+  "organizer": "Eva Green"
+},
+{
+  "id": 1005,
+  "category": "charity",
+  "title": "Food Drive for the Homeless",
+  "description": "Collect and donate non-perishable food items to the local shelter.",
+  "location": "Downtown Square",
+  "date": "September 10, 2022",
+  "time": "14:00",
+  "petsAllowed": false,
+  "organizer": "Jake Brown"
+},
+{
+  "id": 1006,
+  "category": "education",
+  "title": "Financial Literacy Workshop",
+  "description": "Learn the basics of personal finance and budgeting in this free workshop.",
+  "location": "City Library",
+  "date": "October 5, 2022",
+  "time": "18:30",
+  "petsAllowed": false,
+  "organizer": "Mia Smith"
+},
+{
+  "id": 1007,
+  "category": "health",
+  "title": "5K Run for Cancer Research",
+  "description": "Participate in a 5K run to raise funds for cancer research.",
+  "location": "Riverside Park",
+  "date": "November 20, 2022",
+  "time": "08:00",
+  "petsAllowed": true,
+  "organizer": "Alex Johnson"
+}
   ],
 
  "student": [
